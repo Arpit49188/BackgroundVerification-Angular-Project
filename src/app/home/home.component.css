@@ -1,0 +1,73 @@
+/* Apply styles to the entire home component */
+.home {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the banner section */
+  .banner {
+    background-color: #f5f5f5;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  /* Styling for the about section */
+  .about {
+    background-color: #ffffff;
+    padding: 40px;
+  }
+  
+  /* Styling for the services section */
+  .services {
+    background-color: #f5f5f5;
+    padding: 40px;
+  }
+  
+  /* Styling for the contact section */
+  .contact {
+    background-color: #ffffff;
+    padding: 40px;
+  }
+  
+  /* Apply consistent styles to headers */
+  h1, h2 {
+    color: #333333;
+  }
+  
+  /* Apply consistent styles to paragraphs */
+  p {
+    color: #666666;
+  }
+  
+  /* Styling for the header component */
+  nav {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin: 0 20px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* Styling for the footer component */
+  footer {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
